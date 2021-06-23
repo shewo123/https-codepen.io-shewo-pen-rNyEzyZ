@@ -1,0 +1,5 @@
+Mirror in progress since Wed, 23 Jun 2021 15:09:35 .. please wait!
+winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.aliexpress.com/?src=google&albch=fbrnd&acnt=304-410-9721&isdl=y&aff_short_key=UneMJZVf&albcp=249251668&albag=52561444485&slnk=&trgt=kwd-14803160428&plac=&crea=399352592823&netw=g&device=c&mtctp=b&memo1=&albbt=Google_7_fbrnd&aff_platform=google&albagn=888888&isSmbActive=false&isSmbAutoCall=false&needSmbHouyi=false&gclid=CjwKCAjwt8uGBhBAEiwAayu_9bC2anSf6Wzl00sgjV2L856DrIS_aCa-sof88JCmqcm703yG6qtUDxoCdF4QAvD_BwE -O1 ""C:\My Web Sites\AliExpress"" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=8320
+START=1624453775
